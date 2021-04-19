@@ -1,0 +1,1 @@
+StoreWebsiteSkeleton.NetCore
